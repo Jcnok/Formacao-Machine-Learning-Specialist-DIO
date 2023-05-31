@@ -4,7 +4,7 @@
 
 ## Para a leitura dos valores de VP, VN, FP e FN, será necessário escolher uma matriz de confusão para a base dos cálculos. Essa matriz você pode escolher de forma arbitraria, pois nosso objetivo é entender como funciona cada métrica.
 
-<img src="img\tab1.png" align='center' alt="drawing" width="603" heigth="221"/>
+<img src="img/tab1.png" align='center' alt="drawing" width="603" heigth="221"/>
 
 Para esse projeto de exemplo, vou utilizar um modelo de classificação para prever se uma amostra de tecido é benigna(classe 1) ou maligna(classe 0). 
 O conjunto de dados Breast Cancer Wisconsin é uma base de dados amplamente utilizada para problemas de classificação relacionados ao diagnóstico de câncer de mama. 
@@ -251,7 +251,7 @@ plt.show()
 
 
     
-![png](img\output_12_0.png)
+![png](img/output_12_0.png)
     
 
 
@@ -316,7 +316,7 @@ disp.ax_.set_title(title);
 
 
     
-![png](img\output_19_0.png)
+![png](img/output_19_0.png)
     
 
 
