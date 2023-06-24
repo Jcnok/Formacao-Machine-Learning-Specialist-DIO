@@ -977,7 +977,7 @@ class_id = 2, name = Horse, ap = 4.78%   	       (TP = 0, FP = 0)
 
 
 ## Resultado de um treinamento com 4000 épocas.
-* **Deixei esse arquivo em [/data](data/) para replicação se desejado**.
+* **Deixei esse arquivo para download [aqui!](https://drive.google.com/file/d/1SkIFW_Cn_YN_0SAH-LigjPJwMzZRRR_j/view?usp=sharing) para replicação se desejado**.
 
 
 ```python
